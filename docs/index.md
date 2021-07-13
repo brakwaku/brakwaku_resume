@@ -6,25 +6,24 @@ title: Kwaku Appau-Nkansah's Resume
 Software Engineer / Data Scientist
 
 <div id="webaddress">
-<a href="brakwaku@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="brakwaku@byui.edu">Email</a>
+| <a href="https://www.kwaku.netlify.app">Portfolio</a>
 | <a href="https://www.linkedin.com/in/theophilus-kwaku-appau-nkansah-b57393a2/">LinkedIn</a>
 | <a href="https://github.com/brakwaku/brakwaku_resume">GitHub</a>
 </div>
+
+---
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2016 - 2018`
-__Methodist University College Ghana__, Accra, GR
-
-- Full academic scholarship with 4.0 GPA
-
-`2018 - 2021`
+`Sep 2018 - Dec 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Android Mobile App Development Society - BYU-I
+- Data Science Society - BYU-I
+- Academic / Project experience with Java, C++, R, Python, JavaScript, React, SQL, Responsive Web Design, Data Structures, Git
 
 
 ## Related Experience
@@ -37,6 +36,14 @@ __Software Engineer | The Church of Jesus Christ of Latter-Day Saints__, Salt La
 - Partnered in developing of a web application and components utilizing React JS and Java
 - Partnered with teammates utilizing GIT version control
 - Wrote unit tests using jest and enzyme to ensure quality products.
+
+
+`Sept. 2020 – Dec. 2020`
+__Web & Full Stack Developer | BuildingFit__, Salt Lake City, Utah
+
+- Cooperated team efforts to create modern responsive company [website](https://www.buildingfit.com) in an agile development environment
+- Leverage HTML, CSS, JavaScript and WordPress to build a website consistent with UX design best practices.
+- Implement effective SEO principles to attract more useful web traffic.
 
 ### Data Science Experience
 
@@ -53,27 +60,36 @@ __Good2Go lane__, Participant
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+### Volunteer Experience
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2020 - July 2020`
+__Web Developer | BuildingFit__, Salt Lake City, Utah
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Leveraged HTML, CSS, JavaScript and WordPress to build a website consistent with UX design best practices
+- Collaborate efforts through regular meetings and consultation in an agile development environment
+- Implemented effective SEO principles to attract more useful web traffic to company [website](https://www.buildingfit.com)
 
 
-## Service and Work History
+### Projects
 
-`2023-2025`
-__Service Missionary__, Nigeria
+`Sep 2020 - Sep 2020`
+
+__Full Stack Developer | [ASKAS](https://byuibroadcastaudio.herokuapp.com)__
+
+- Designed and constructed a web application using NodeJS, jQuery, HTML5, CSS and MongoDB to record and report work hours and tasks worked on. It follows the MVC pattern, includes route protection, user authentication, password encryption, form validation, error handling, protection against CSRF attacks and CRUD operations. [Source code](https://github.com/brakwaku/ASKAS)
+
+
+`Jul 2020 - Aug 2020`
+
+__Software Architect & Developer | EquipMe__
+
+- Collaborated on a three-person team to design and develop an android app in Java by applying Software Architecture, Object Oriented Programming (OOP), UX Design, and Software Documentation. The application tracks inventory of company tools and employees. Users are able to add tools and assign to employees. [Source code](https://github.com/arrowalker3/EquipMe)
+
+`Jun 2020 - Aug 2020`
+
+__Full Stack Developer | [C9ForLife](https://c9forlife.herokuapp.com)__
+
+- Designed and developed a web application using NodeJS, HTML5, CSS and MongoDB to provide an environment for victims of trauma and depression to interact with an admin who coordinates activities. It follows the MVC pattern, includes route protection, user authentication, password encryption, form validation, error handling, protection against CSRF attacks and performs CRUD operations. [Source code](https://github.com/brakwaku/C9forlife-app)
 
 
 
