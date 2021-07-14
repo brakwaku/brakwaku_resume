@@ -20,6 +20,7 @@ Software Engineer / Data Scientist
 
 `Sep 2018 - Dec 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
+_Software Engineering Major / Data Science Minor_
 
 - Android Mobile App Development Society - BYU-I
 - Data Science Society - BYU-I
